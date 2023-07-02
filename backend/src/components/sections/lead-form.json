@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_sections_lead_forms",
+  "info": {
+    "name": "Lead form",
+    "displayName": "Lead form",
+    "icon": "at",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "emailPlaceholder": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

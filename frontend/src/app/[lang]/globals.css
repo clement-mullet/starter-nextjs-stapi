@@ -1,0 +1,11 @@
+/******************************************* 
+  React Slideshow Styles
+*******************************************/
+
+.react-slideshow-container [aria-label="Previous Slide"] {
+  margin-left: 1rem;
+}
+
+.react-slideshow-container [aria-label="Next Slide"] {
+  margin-right: 1rem;
+}
